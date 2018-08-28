@@ -1,0 +1,18 @@
+{
+  "name": "tf2-richpresence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "github.com/BeepFelix (Felix#2343)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord-rpc": "^3.0.0",
+    "request": "^2.88.0",
+    "sharp": "^0.20.7"
+  }
+}

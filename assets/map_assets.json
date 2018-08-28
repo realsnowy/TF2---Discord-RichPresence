@@ -1,0 +1,547 @@
+[
+    {
+        "name": "2Fort",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/a1/Ctf_2fort_bridge_ss.png/150px-Ctf_2fort_bridge_ss.png",
+        "rawName": "ctf_2fort"
+    },
+    {
+        "name": "2Fort Invasion",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/dd/Ctf_2fort_invasion.png/150px-Ctf_2fort_invasion.png",
+        "rawName": "ctf_2fort_invasion"
+    },
+    {
+        "name": "Double Cross",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/ae/CTF_DoubleCross_RedBase.png/150px-CTF_DoubleCross_RedBase.png",
+        "rawName": "ctf_doublecross"
+    },
+    {
+        "name": "Landfall",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/ca/Ctf_landfall_rc0005.jpg/150px-Ctf_landfall_rc0005.jpg",
+        "rawName": "ctf_landfall"
+    },
+    {
+        "name": "Sawmill (Capture the Flag)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/bd/CTF_Sawmill_Center.png/150px-CTF_Sawmill_Center.png",
+        "rawName": "ctf_sawmill"
+    },
+    {
+        "name": "Turbine",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/dc/CTF_Turbine_Center.png/150px-CTF_Turbine_Center.png",
+        "rawName": "ctf_turbine"
+    },
+    {
+        "name": "Well (Capture the Flag)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Ctfwell04.png/150px-Ctfwell04.png",
+        "rawName": "ctf_well"
+    },
+    {
+        "name": "5Gorge",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/81/5gorge1.png/150px-5gorge1.png",
+        "rawName": "cp_5gorge"
+    },
+    {
+        "name": "Badlands (Control Point)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7d/CP_Badlands_Central_point.PNG/150px-CP_Badlands_Central_point.PNG",
+        "rawName": "cp_badlands"
+    },
+    {
+        "name": "Coldfront",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/13/Coldfront5.png/150px-Coldfront5.png",
+        "rawName": "cp_coldfront"
+    },
+    {
+        "name": "Fastlane",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/ee/Fastlane1.png/150px-Fastlane1.png",
+        "rawName": "cp_fastlane"
+    },
+    {
+        "name": "Foundry",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/2/24/Cp_foundry_mid.png/150px-Cp_foundry_mid.png",
+        "rawName": "cp_foundry"
+    },
+    {
+        "name": "Freight",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/da/Freight1.png/150px-Freight1.png",
+        "rawName": "cp_freight_final1"
+    },
+    {
+        "name": "Granary (Control Point)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d0/TF2_Granary_Map.jpg/150px-TF2_Granary_Map.jpg",
+        "rawName": "cp_granary"
+    },
+    {
+        "name": "Gullywash",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/17/CP_Gullywash_3.png/150px-CP_Gullywash_3.png",
+        "rawName": "cp_gullywash_final1"
+    },
+    {
+        "name": "Metalworks",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/fa/Cp_metalworks_b22_5.jpg/150px-Cp_metalworks_b22_5.jpg",
+        "rawName": "cp_metalworks"
+    },
+    {
+        "name": "Powerhouse",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d1/Cp_powerhouse.png/150px-Cp_powerhouse.png",
+        "rawName": "cp_powerhouse"
+    },
+    {
+        "name": "Process",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/82/Cp_process_middle_point.jpeg/150px-Cp_process_middle_point.jpeg",
+        "rawName": "cp_process_final"
+    },
+    {
+        "name": "Sinshine",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/48/Cp_sunshine_event.jpg/150px-Cp_sunshine_event.jpg",
+        "rawName": "cp_sunshine_event"
+    },
+    {
+        "name": "Snakewater",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e7/Snakewater_mid.jpg/150px-Snakewater_mid.jpg",
+        "rawName": "cp_snakewater_final1"
+    },
+    {
+        "name": "Sunshine",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/be/Sunshine_main.jpg/150px-Sunshine_main.jpg",
+        "rawName": "cp_sunshine"
+    },
+    {
+        "name": "Vanguard",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Cp_vanguard.png/150px-Cp_vanguard.png",
+        "rawName": "cp_vanguard"
+    },
+    {
+        "name": "Well (Control Point)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/b9/TF2_Well_Map.jpg/150px-TF2_Well_Map.jpg",
+        "rawName": "cp_well"
+    },
+    {
+        "name": "Yukon",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/8a/CP_Yukon_overview.png/150px-CP_Yukon_overview.png",
+        "rawName": "cp_yukon_final"
+    },
+    {
+        "name": "Dustbowl",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/31/TF2_Dustbowl_Map.jpg/150px-TF2_Dustbowl_Map.jpg",
+        "rawName": "cp_dustbowl"
+    },
+    {
+        "name": "Egypt",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/45/Egypt_01.jpg/150px-Egypt_01.jpg",
+        "rawName": "cp_egypt_final"
+    },
+    {
+        "name": "Gorge",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/2/25/Cp_gorge.jpg/150px-Cp_gorge.jpg",
+        "rawName": "cp_gorge"
+    },
+    {
+        "name": "Gorge Event",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/70/Cp_gorge_event.png/150px-Cp_gorge_event.png",
+        "rawName": "cp_gorge_event"
+    },
+    {
+        "name": "Gravel Pit",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e4/Tf2_gravelpit.jpg/150px-Tf2_gravelpit.jpg",
+        "rawName": "cp_gravelpit"
+    },
+    {
+        "name": "Junction",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/2/23/Junct_01.jpg/150px-Junct_01.jpg",
+        "rawName": "cp_junction_final"
+    },
+    {
+        "name": "Mann Manor",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/4d/Mann_manor_event.jpg/150px-Mann_manor_event.jpg",
+        "rawName": "cp_manor_event"
+    },
+    {
+        "name": "Mercenary Park (map)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/5/53/Yetipark_5.png/150px-Yetipark_5.png",
+        "rawName": "cp_mercenarypark"
+    },
+    {
+        "name": "Mossrock",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/9/92/Mossrock_main.jpg/150px-Mossrock_main.jpg",
+        "rawName": "cp_mossrock"
+    },
+    {
+        "name": "Mountain Lab",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/c2/Art_Pass_Winner_3DNJ.jpg/150px-Art_Pass_Winner_3DNJ.jpg",
+        "rawName": "cp_mountainlab"
+    },
+    {
+        "name": "Snowplow",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/a7/Cp_snowplow.jpg/150px-Cp_snowplow.jpg",
+        "rawName": "cp_snowplow"
+    },
+    {
+        "name": "Steel",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/39/Steel_Main.png/150px-Steel_Main.png",
+        "rawName": "cp_steel"
+    },
+    {
+        "name": "DeGroot Keep",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/0/0e/Degroot_Keep_Castle.png/150px-Degroot_Keep_Castle.png",
+        "rawName": "cp_degrootkeep"
+    },
+    {
+        "name": "Standin",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/73/Cp_standin_B.jpg/150px-Cp_standin_B.jpg",
+        "rawName": "cp_standin_final"
+    },
+    {
+        "name": "Hydro",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e8/TF2_Hydro_Map.jpg/150px-TF2_Hydro_Map.jpg",
+        "rawName": "tc_hydro"
+    },
+    {
+        "name": "Badwater Basin",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Plbadwater.jpg/150px-Plbadwater.jpg",
+        "rawName": "pl_badwater"
+    },
+    {
+        "name": "Barnblitz",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7b/Barnblitz.PNG/150px-Barnblitz.PNG",
+        "rawName": "pl_barnblitz"
+    },
+    {
+        "name": "Borneo",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d3/Pl_Borneo.jpg/150px-Pl_Borneo.jpg",
+        "rawName": "pl_borneo"
+    },
+    {
+        "name": "Brimstone (map)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/6/6d/Pl_fifthcurve_event.png/150px-Pl_fifthcurve_event.png",
+        "rawName": "pl_fifthcurve_event"
+    },
+    {
+        "name": "Cactus Canyon",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/13/Cactus_Canyon.jpg/150px-Cactus_Canyon.jpg",
+        "rawName": "pl_cactuscanyon "
+    },
+    {
+        "name": "Enclosure",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Enclosure_main.jpg/150px-Enclosure_main.jpg",
+        "rawName": "pl_enclosure_final"
+    },
+    {
+        "name": "Frontier",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/af/Pl_frontier.jpg/150px-Pl_frontier.jpg",
+        "rawName": "pl_frontier_final"
+    },
+    {
+        "name": "Gold Rush",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/cb/Goldrush.jpg/150px-Goldrush.jpg",
+        "rawName": "pl_goldrush"
+    },
+    {
+        "name": "Hellstone",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Pl_millstone_event.jpg/150px-Pl_millstone_event.jpg",
+        "rawName": "pl_millstone_event"
+    },
+    {
+        "name": "Hoodoo",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/da/Plhoodoo.jpg/150px-Plhoodoo.jpg",
+        "rawName": "pl_hoodoo_final"
+    },
+    {
+        "name": "Snowycoast",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/af/Pl_snowycoast_b1.jpg/150px-Pl_snowycoast_b1.jpg",
+        "rawName": "pl_snowycoast"
+    },
+    {
+        "name": "Swiftwater",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/c3/Pl_swiftwater.jpg/150px-Pl_swiftwater.jpg",
+        "rawName": "pl_swiftwater_final1"
+    },
+    {
+        "name": "Thunder Mountain",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/f0/PL_Thunder_Mountain.png/150px-PL_Thunder_Mountain.png",
+        "rawName": "pl_thundermountain"
+    },
+    {
+        "name": "Upward",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/9/92/Engineer_Update_Upward.png/150px-Engineer_Update_Upward.png",
+        "rawName": "pl_upward"
+    },
+    {
+        "name": "Banana Bay",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/87/Bananabay_main.jpg/150px-Bananabay_main.jpg",
+        "rawName": "plr_bananabay"
+    },
+    {
+        "name": "Helltower",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7f/Plr_hightower_event3.png/150px-Plr_hightower_event3.png",
+        "rawName": "plr_hightower_event"
+    },
+    {
+        "name": "Hightower",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d9/Hightower.png/150px-Hightower.png",
+        "rawName": "plr_hightower"
+    },
+    {
+        "name": "Nightfall",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/18/Nightfall_stage2.png/150px-Nightfall_stage2.png",
+        "rawName": "plr_nightfall_final"
+    },
+    {
+        "name": "Pipeline",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7e/Pipeline.jpg/150px-Pipeline.jpg",
+        "rawName": "plr_pipeline"
+    },
+    {
+        "name": "Badlands (Arena)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/46/Arenabadlands.jpg/150px-Arenabadlands.jpg",
+        "rawName": "arena_badlands"
+    },
+    {
+        "name": "Byre",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/da/Arena_byre_b40007.jpg/150px-Arena_byre_b40007.jpg",
+        "rawName": "arena_byre"
+    },
+    {
+        "name": "Granary (Arena)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/38/Arenagranary.jpg/150px-Arenagranary.jpg",
+        "rawName": "arena_granary"
+    },
+    {
+        "name": "Lumberyard",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/df/Arenalumberyard.jpg/150px-Arenalumberyard.jpg",
+        "rawName": "arena_lumberyard"
+    },
+    {
+        "name": "Nucleus",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/6/6c/Arenanucleus.jpg/150px-Arenanucleus.jpg",
+        "rawName": "arena_nucleus"
+    },
+    {
+        "name": "Offblast",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d9/Offblast_01.jpg/150px-Offblast_01.jpg",
+        "rawName": "arena_offblast_final"
+    },
+    {
+        "name": "Ravine",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/3c/Arenaravine.jpg/150px-Arenaravine.jpg",
+        "rawName": "arena_ravine"
+    },
+    {
+        "name": "Sawmill",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/81/Sawmill.PNG/150px-Sawmill.PNG",
+        "rawName": "arena_sawmill"
+    },
+    {
+        "name": "Watchtower",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/86/Watch_01.jpg/150px-Watch_01.jpg",
+        "rawName": "arena_watchtower"
+    },
+    {
+        "name": "Well (Arena)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/4a/Tg_arenawell.jpg/150px-Tg_arenawell.jpg",
+        "rawName": "arena_well"
+    },
+    {
+        "name": "Badlands (King of the Hill)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/31/Koth_badlands.png/150px-Koth_badlands.png",
+        "rawName": "koth_badlands"
+    },
+    {
+        "name": "Brazil",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/ee/Brazil_main.jpg/150px-Brazil_main.jpg",
+        "rawName": "koth_brazil"
+    },
+    {
+        "name": "Eyeaduct",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Eyeaduct_1.png/150px-Eyeaduct_1.png",
+        "rawName": "koth_viaduct_event"
+    },
+    {
+        "name": "Ghost Fort",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/f9/Ghost_Fort.png/150px-Ghost_Fort.png",
+        "rawName": "koth_lakeside_event"
+    },
+    {
+        "name": "Harvest",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d3/KOTH_Harvest_Farmhouse.PNG/150px-KOTH_Harvest_Farmhouse.PNG",
+        "rawName": "koth_harvest_final"
+    },
+    {
+        "name": "Harvest Event",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/8c/Koth_harvest_event_mid.jpg/150px-Koth_harvest_event_mid.jpg",
+        "rawName": "koth_harvest_event"
+    },
+    {
+        "name": "Highpass",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/31/KOTH_Highpass.jpg/150px-KOTH_Highpass.jpg",
+        "rawName": "koth_highpass"
+    },
+    {
+        "name": "Kong King",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/b4/Kong_King.png/150px-Kong_King.png",
+        "rawName": "koth_king"
+    },
+    {
+        "name": "Lakeside",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/fc/Koth_lakeside.jpg/150px-Koth_lakeside.jpg",
+        "rawName": "koth_lakeside_final"
+    },
+    {
+        "name": "Lazarus",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/19/Lazarus_main.jpg/150px-Lazarus_main.jpg",
+        "rawName": "koth_lazarus"
+    },
+    {
+        "name": "Maple Ridge Event",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/31/Koth_maple_ridge_event.png/150px-Koth_maple_ridge_event.png",
+        "rawName": "koth_maple_ridge_event"
+    },
+    {
+        "name": "Moonshine Event",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Koth_moonshine_event.png/150px-Koth_moonshine_event.png",
+        "rawName": "koth_moonshine_event"
+    },
+    {
+        "name": "Nucleus (King of the Hill)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/1/13/Nucleus.PNG/150px-Nucleus.PNG",
+        "rawName": "koth_nucleus"
+    },
+    {
+        "name": "Probed",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/f3/Koth_probed.jpg/150px-Koth_probed.jpg",
+        "rawName": "koth_probed"
+    },
+    {
+        "name": "Sawmill (King of the Hill)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/c7/Environmental_death_Saw_Blades.png/150px-Environmental_death_Saw_Blades.png",
+        "rawName": "koth_sawmill"
+    },
+    {
+        "name": "Suijin",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/be/Suijin_main.jpg/150px-Suijin_main.jpg",
+        "rawName": "koth_suijin"
+    },
+    {
+        "name": "Viaduct",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/c9/Viaduct_01.jpg/150px-Viaduct_01.jpg",
+        "rawName": "koth_viaduct"
+    },
+    {
+        "name": "Carnival of Carnage",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/5/5b/Carnival_of_Carnage.png/150px-Carnival_of_Carnage.png",
+        "rawName": "sd_doomsday_event"
+    },
+    {
+        "name": "Doomsday",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Sd_doomsday_ingame_1.jpg/150px-Sd_doomsday_ingame_1.jpg",
+        "rawName": "sd_doomsday"
+    },
+    {
+        "name": "Dustbowl (Training)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/6/6d/Tr_dustbowl0003.png/150px-Tr_dustbowl0003.png",
+        "rawName": "tr_dustbowl"
+    },
+    {
+        "name": "Target",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e8/Map_TR_Training.png/150px-Map_TR_Training.png",
+        "rawName": "tr_target"
+    },
+    {
+        "name": "Item Test",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/7/73/Item_test.jpg/150px-Item_test.jpg",
+        "rawName": "itemtest"
+    },
+    {
+        "name": "Cloak (Control Point)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/f/fa/Cp_cloak1.jpg/150px-Cp_cloak1.jpg",
+        "rawName": "cp_cloak"
+    },
+    {
+        "name": "Bigrock",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/6/6b/Mvm_bigrock.png/150px-Mvm_bigrock.png",
+        "rawName": "mvm_bigrock"
+    },
+    {
+        "name": "Coal Town",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/c/c2/Coal_Town_base.png/150px-Coal_Town_base.png",
+        "rawName": "mvm_coaltown"
+    },
+    {
+        "name": "Decoy",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Decoy_base.png/150px-Decoy_base.png",
+        "rawName": "mvm_decoy"
+    },
+    {
+        "name": "Example",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/9/95/Example5.png/150px-Example5.png",
+        "rawName": "mvm_example"
+    },
+    {
+        "name": "Coaltown Event",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d0/Mvm_coaltown_event.jpg/150px-Mvm_coaltown_event.jpg",
+        "rawName": "mvm_ghost_town"
+    },
+    {
+        "name": "Mannhattan",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d4/Mannhattan_preview.png/150px-Mannhattan_preview.png",
+        "rawName": "mvm_mannhattan"
+    },
+    {
+        "name": "Mannworks",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/3/31/Mannworks_base.jpg/150px-Mannworks_base.jpg",
+        "rawName": "mvm_mannworks"
+    },
+    {
+        "name": "Rottenburg",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/a/a9/Rottenburg.png/150px-Rottenburg.png",
+        "rawName": "mvm_rottenburg"
+    },
+    {
+        "name": "Asteroid",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/2/26/Rdasteroid.jpg/150px-Rdasteroid.jpg",
+        "rawName": "rd_asteroid"
+    },
+    {
+        "name": "Foundry (Capture the Flag)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/0/03/Ctf_foundry.jpg/150px-Ctf_foundry.jpg.png",
+        "rawName": "ctf_foundry"
+    },
+    {
+        "name": "Gorge (Capture the Flag)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d9/Ctf_gorge.jpg/150px-Ctf_gorge.jpg.png",
+        "rawName": "ctf_gorge"
+    },
+    {
+        "name": "Hellfire",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/0/09/Ctf_hellfire.jpg/150px-Ctf_hellfire.jpg.png",
+        "rawName": "ctf_hellfire"
+    },
+    {
+        "name": "Thunder Mountain (Capture the Flag)",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Ctf_thundermountain.jpg/150px-Ctf_thundermountain.jpg",
+        "rawName": "ctf_thundermountain"
+    },
+    {
+        "name": "Brickyard",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/e/e2/Pass_brickyard.png/150px-Pass_brickyard.png",
+        "rawName": "pass_brickyard"
+    },
+    {
+        "name": "District",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/4/48/Pass_district.jpg/150px-Pass_district.jpg",
+        "rawName": "pass_district"
+    },
+    {
+        "name": "Timberlodge",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/9/9b/Pass_timberlodge_center.jpeg/150px-Pass_timberlodge_center.jpeg",
+        "rawName": "pass_timbertown"
+    },
+    {
+        "name": "Pit of Death",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/0/05/Pd_pit_of_death_event.png/150px-Pd_pit_of_death_event.png",
+        "rawName": "pd_pit_of_death_event"
+    },
+    {
+        "name": "Watergate",
+        "link": "https://wiki.teamfortress.com/w/images/thumb/d/d0/Pd_watergate_1.jpg/150px-Pd_watergate_1.jpg",
+        "rawName": "pd_watergate"
+    }
+]
