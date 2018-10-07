@@ -69,7 +69,7 @@ setInterval(() => {
 			getReady(client);
 		}
 	});
-}, 1 * 1000); // Check if hl2.exe (with "-game tf" parameter) is running or not
+}, 10 * 1000); // Check if hl2.exe (with "-game tf" parameter) is running or not
 
 function getReady(RPC) {
 	if (config.configs.generateConfigs) {
