@@ -256,7 +256,7 @@ setInterval(() => {
 			data.class = class_.join(' ').replace(/ /g, '');
 		} else if (rawData[i] === 'Client reached server_spawn.') {
 			data.onServer = 'yes';
-		} else if (/SoundEmitter:( +)removing map sound overrides \[(\d+) to remove, (\d+) to restore\]/.test(rawData[i])) {
+		} else if (/SoundEmitter:( +)removing map sound overrides \[(\d+) to remove, (\d+) to restore\]/.test(rawData[i]) || rawData[i] === 'Disconnect: #TF_Competitive_Disconnect.' || rawData[i] === 'The match is over. Thanks for playing!') {
 			data.onServer = 'no';
 
 			client.setActivity({
